@@ -1,3 +1,0 @@
-include ':readTimeLibrary'
-include ':app'
-rootProject.name = "ReadTimeCounter"
